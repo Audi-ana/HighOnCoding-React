@@ -1,7 +1,3 @@
-
-![image](Screen Shot 2019-04-22 at 10.49.55 PM)
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
