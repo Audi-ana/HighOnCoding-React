@@ -1,0 +1,50 @@
+/* Navbar css */
+
+.navStyling{
+
+  background-color:rgb(0, 174, 255);
+  padding: 2.5%;
+  margin: 1%; 
+  color: white;
+  font-size: 20px;
+}
+
+.homeStyling{
+
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+/* Feature Article css */
+
+.articleStyling{
+
+  background-color: gray;
+  margin: 1%;
+  padding: 2.5%;
+  padding-top:5px;
+}
+
+.titleStyling{
+
+  padding-bottom: 15px;
+}
+
+/* Sub Article css */
+
+.subArticleStyling{
+
+margin: 1.5%;
+}
+
+.commentStyling{
+
+  display: flex;
+  background-color: orange;
+  width: 100%;
+  padding-left: 10px;
+}
+
+.spacing{
+  padding-right: 15px;
+}
